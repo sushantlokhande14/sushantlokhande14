@@ -36,10 +36,6 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushantlokhande14/sushantlokhande14/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushantlokhande14/sushantlokhande14/output/github-snake-light.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/sushantlokhande14/sushantlokhande14/output/github-snake.svg" width="900" />
-</picture>
+
 
 </div>
