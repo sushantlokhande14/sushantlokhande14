@@ -24,7 +24,7 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 <div align="center">
 
-[![My skills](https://skillicons.dev/icons?i=py,cpp,c,ts,js,java,react,nextjs,fastapi,flask,django,nodejs,pytorch,postgres,mongodb,redis,graphql,docker,kubernetes,aws,git,grafana,prometheus,linux&theme=dark&perline=12)](https://portfolio-omega-mauve-38.vercel.app)
+<a href="https://portfolio-omega-mauve-38.vercel.app"><img width="830" src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,java,react,nextjs,fastapi,flask,django,nodejs,pytorch,postgres,mongodb,redis,graphql,docker,kubernetes,aws,git,grafana,prometheus,linux&theme=dark&perline=12" alt="Tech stack" /></a>
 
 </div>
 
@@ -48,8 +48,9 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 <div align="center">
 
-<img height="180" src="https://any-kohl-rho.vercel.app/api?username=sushantlokhande14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5e9eff&text_color=8b949e&icon_color=7ee787&ring_color=5e9eff" alt="GitHub stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=sushantlokhande14&hide_border=true&background=0d1117&stroke=30363d&ring=5e9eff&fire=5e9eff&currStreakLabel=5e9eff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&excludeDaysLabel=6e7681" alt="GitHub streak stats" />
+<img src="https://any-kohl-rho.vercel.app/api?username=sushantlokhande14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=600&bg_color=0d1117&title_color=5e9eff&text_color=8b949e&icon_color=7ee787" alt="GitHub stats" />
+
+<img src="https://streak-stats.demolab.com/?user=sushantlokhande14&hide_border=true&card_width=600&background=0d1117&stroke=30363d&ring=5e9eff&fire=5e9eff&currStreakLabel=5e9eff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&excludeDaysLabel=6e7681" alt="GitHub streak stats" />
 
 <br/><br/>
 
