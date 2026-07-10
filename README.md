@@ -20,6 +20,14 @@ Outside of work I take systems apart to understand them. Lately that meant writi
 
 Open to full-time Software, ML, and AI Engineering roles across the US.
 
+## Tech stack
+
+<div align="center">
+
+[![My skills](https://skillicons.dev/icons?i=py,cpp,c,ts,js,java,react,nextjs,fastapi,flask,django,nodejs,pytorch,postgres,mongodb,redis,graphql,docker,kubernetes,aws,git,grafana,prometheus,linux&theme=dark&perline=12)](https://portfolio-omega-mauve-38.vercel.app)
+
+</div>
+
 ## Things I've built
 
 | Project | The short version | Code |
@@ -34,7 +42,16 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 *The full case studies, with architecture and honest numbers, live on [the portfolio](https://portfolio-omega-mauve-38.vercel.app).*
 
-<br/>
+</div>
+
+## By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sushantlokhande14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5e9eff&text_color=8b949e&icon_color=7ee787" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantlokhande14&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=5e9eff&text_color=8b949e" alt="Top languages" />
+
+<br/><br/>
 
 
 
