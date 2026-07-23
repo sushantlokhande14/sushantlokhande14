@@ -49,8 +49,6 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 <div align="center">
 
 <img width="800" src="https://any-kohl-rho.vercel.app/api?username=sushantlokhande14&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&card_width=600&bg_color=0d1117&title_color=5e9eff&text_color=8b949e&icon_color=7ee787" alt="GitHub stats" />
-<img width="800" src="https://streak-stats.demolab.com/?user=sushantlokhande14&hide_border=true&card_width=600&background=0d1117&stroke=30363d&ring=5e9eff&fire=5e9eff&currStreakLabel=5e9eff&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&excludeDaysLabel=6e7681" alt="GitHub streak stats" />
-
 
 <br/><br/>
 
