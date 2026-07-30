@@ -1,7 +1,13 @@
 <div align="center">
 
 <img src="assets/hero.svg" alt="Sushant Lokhande — software engineer" width="900" />
+<br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-see%20the%20work-0071e3?style=for-the-badge&logo=safari&logoColor=white)](https://sushantlokhande.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantlokhande14)
+[![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lokhandesushant094@gmail.com)
+
+</div>
 
 
 ## About me
