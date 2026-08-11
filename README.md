@@ -40,7 +40,7 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 <div align="center">
 
-*The full case studies, with architecture and honest numbers, live on [the portfolio](https://sushantlokhande.me).*
+
 
 </div>
 
