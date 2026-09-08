@@ -38,7 +38,7 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 | [Autograde AI](https://sushantlokhande.me/projects/autograde-ai/) | A local-first multi-agent grading platform: six grader agents under Temporal and Kafka, confidence-gated human review | [repo](https://github.com/sushantlokhande14/autograde-ai) |
 | [Malware Classification](https://sushantlokhande.me/projects/malware-classification/) | My thesis: malware binaries rendered as images, a three-track ensemble that agrees 94% of the time across 17 families | [repo](https://github.com/sushantlokhande14/Soft_Voting_Ensembled_Malware_Images_Classification) |
 
-## Open source
+## Open source Contributions
 
 <div align="center">
 
