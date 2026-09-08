@@ -40,8 +40,6 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 ## Open source
 
-Ten patches merged into projects I don't own, with three more in review.
-
 | Project | What I changed | PRs |
 | :-- | :-- | :-- |
 | [**NVIDIA/garak**](https://github.com/NVIDIA/garak) <br/> <sub>LLM vulnerability scanner</sub> | Merging scan reports stamped the run id over every attempt's own UUID, collapsing nine distinct results into a single identity and leaving every cross-reference to them dangling | [#2158](https://github.com/NVIDIA/garak/pull/2158) <br/> <sub>in review</sub> |
