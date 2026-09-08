@@ -40,9 +40,7 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 ## Open source
 
-Ten patches merged into projects I don't own, with three more in review. Most of it is
-security and data-integrity work: making webhook verification fail closed, and stopping
-vulnerability scanners from quietly losing findings.
+Ten patches merged into projects I don't own, with three more in review.
 
 | Project | What I changed | PRs |
 | :-- | :-- | :-- |
