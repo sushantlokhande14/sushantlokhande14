@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 262" width="900" height="262" fill="none" font-family="ui-monospace, 'Cascadia Code', 'Segoe UI Mono', Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#090c10"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 H0 V28" stroke="#30363d" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="262" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="262" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899.0" height="261.0" rx="15.5" stroke="#30363d"/>
+
+  <text x="40" y="46" fill="#58a6ff" font-size="13" letter-spacing="2.5">OPEN SOURCE</text>
+  <text x="40" y="76" fill="#c9d1d9" font-size="15">10 patches merged in repos I do not own, 3 more in review</text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.25s" fill="freeze"/>
+    <rect x="40" y="108" width="152" height="116" rx="10" fill="#0d1117" stroke="#76b900" stroke-opacity="0.35"/>
+    <circle cx="116.0" cy="142" r="19" fill="#76b900" fill-opacity="0.12" stroke="#76b900" stroke-opacity="0.55"/>
+    <text x="116.0" y="148" fill="#76b900" font-size="17" font-weight="700" text-anchor="middle">1</text>
+    <text x="116.0" y="182" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">NVIDIA</text>
+    <text x="116.0" y="198" fill="#8b949e" font-size="10.5" text-anchor="middle">garak</text>
+    <circle cx="86.0" cy="211.5" r="3" fill="#d29922"/>
+    <text x="94.0" y="215" fill="#d29922" font-size="10" text-anchor="start">in review</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.43s" fill="freeze"/>
+    <rect x="207" y="108" width="152" height="116" rx="10" fill="#0d1117" stroke="#4285f4" stroke-opacity="0.35"/>
+    <circle cx="283.0" cy="142" r="19" fill="#4285f4" fill-opacity="0.12" stroke="#4285f4" stroke-opacity="0.55"/>
+    <text x="283.0" y="148" fill="#4285f4" font-size="17" font-weight="700" text-anchor="middle">1</text>
+    <text x="283.0" y="182" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Google</text>
+    <text x="283.0" y="198" fill="#8b949e" font-size="10.5" text-anchor="middle">osv-scalibr</text>
+    <circle cx="253.0" cy="211.5" r="3" fill="#d29922"/>
+    <text x="261.0" y="215" fill="#d29922" font-size="10" text-anchor="start">in review</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.61s" fill="freeze"/>
+    <rect x="374" y="108" width="152" height="116" rx="10" fill="#0d1117" stroke="#58a6ff" stroke-opacity="0.35"/>
+    <circle cx="450.0" cy="142" r="19" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.55"/>
+    <text x="450.0" y="148" fill="#58a6ff" font-size="17" font-weight="700" text-anchor="middle">3</text>
+    <text x="450.0" y="182" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">fission</text>
+    <text x="450.0" y="198" fill="#8b949e" font-size="10.5" text-anchor="middle">fission</text>
+    <circle cx="420.0" cy="211.5" r="3" fill="#3fb950"/>
+    <text x="428.0" y="215" fill="#3fb950" font-size="10" text-anchor="start">merged</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.79s" fill="freeze"/>
+    <rect x="541" y="108" width="152" height="116" rx="10" fill="#0d1117" stroke="#bc8cff" stroke-opacity="0.35"/>
+    <circle cx="617.0" cy="142" r="19" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.55"/>
+    <text x="617.0" y="148" fill="#bc8cff" font-size="17" font-weight="700" text-anchor="middle">7</text>
+    <text x="617.0" y="182" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">corsair</text>
+    <text x="617.0" y="198" fill="#8b949e" font-size="10.5" text-anchor="middle">corsair</text>
+    <circle cx="587.0" cy="211.5" r="3" fill="#3fb950"/>
+    <text x="595.0" y="215" fill="#3fb950" font-size="10" text-anchor="start">merged</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.97s" fill="freeze"/>
+    <rect x="708" y="108" width="152" height="116" rx="10" fill="#0d1117" stroke="#f0883e" stroke-opacity="0.35"/>
+    <circle cx="784.0" cy="142" r="19" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.55"/>
+    <text x="784.0" y="148" fill="#f0883e" font-size="17" font-weight="700" text-anchor="middle">1</text>
+    <text x="784.0" y="182" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">AutoGPT</text>
+    <text x="784.0" y="198" fill="#8b949e" font-size="10.5" text-anchor="middle">backend</text>
+    <circle cx="754.0" cy="211.5" r="3" fill="#d29922"/>
+    <text x="762.0" y="215" fill="#d29922" font-size="10" text-anchor="start">in review</text>
+  </g>
+
+  <text x="40" y="240" fill="#6e7681" font-size="11">security and data-integrity work: fail-closed webhook verification, scanners that stop losing findings</text>
+</svg>
