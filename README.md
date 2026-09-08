@@ -42,6 +42,6 @@ Open to full-time Software, ML, and AI Engineering roles across the US.
 
 <div align="center">
 
-<img src="assets/oss-trophies.svg" alt="Open source contributions: NVIDIA, Google, fission, corsair, AutoGPT" width="900" />
+<img src="assets/open-source.svg" alt="Open source contributions: NVIDIA, Google, fission, corsair, AutoGPT" width="900" />
 
 </div>
