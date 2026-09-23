@@ -14,11 +14,19 @@
 
 I'm fascinated by the gap between a great idea and a system that actually holds up at scale. That gap is where I like to work.
 
-I recently finished my MS in Computer Science at San JosÃ© State University, where my research on image-based malware classification became a co-authored paper, now under review. Before grad school I was a software engineer on an EdTech platform serving 70K+ users, chasing down latency and shipping features thousands of learners used every day.
+I recently finished my MS in Computer Science at San JosÃ© State University, where my research on image-based malware classification became a first-author paper, now on arXiv and appearing as a chapter in a Springer book on AI for cyber defense. Before grad school I was a software engineer on an EdTech platform serving 70K+ users, chasing down latency and shipping features thousands of learners used every day.
 
 Outside of work I take systems apart to understand them. Lately that meant writing a vector search engine from scratch in C++, then building an LLM gateway and a movie recommender on top of it. I ship something small almost every day; building is how I learn.
 
 Open to full-time Software, ML, and AI Engineering roles across the US.
+
+## Publication
+
+**[Image-Based Techniques and Ensemble Soft Voting for Malware Classification](https://arxiv.org/abs/2609.26281)**
+<br/>
+<sub>S. Lokhande, F. Di Troia, M. Jurecek, M. Stamp &middot; arXiv:2609.26281 [cs.CR] &middot; to appear as a chapter in *Artificial Intelligence for Cyber Defense in Emerging Threats* (Springer, 2027)</sub>
+
+Malware binaries rendered as images, then classified by three complementary feature tracks: handcrafted HOG and Haralick descriptors, frozen embeddings from VGG16, ResNet50 and ViT-B/16, and a custom CNN. A soft voting ensemble of fifteen selected voters reaches 80.2% accuracy across 17 malware families, a statistically significant 2.4 point gain over the best individual model.
 
 ## Tech stack
 
