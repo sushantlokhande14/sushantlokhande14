@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Sushant Lokhande â€” software engineer" width="900" />
+<img src="assets/hero.svg" alt="Sushant Lokhande, software engineer" width="900" />
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-see%20the%20work-0071e3?style=for-the-badge&logo=safari&logoColor=white)](https://sushantlokhande.me)
@@ -14,9 +14,9 @@
 
 I'm fascinated by the gap between a great idea and a system that actually holds up at scale. That gap is where I like to work.
 
-I recently finished my MS in Computer Science at San JosÃ© State University, where my research on image-based malware classification became a first-author paper, now on arXiv and appearing as a chapter in a Springer book on AI for cyber defense. Before grad school I was a software engineer on an EdTech platform serving 70K+ users, chasing down latency and shipping features thousands of learners used every day.
+I recently finished my MS in Computer Science at San José State University, where my research on image-based malware classification became a first-author paper, now on arXiv and appearing as a chapter in a Springer book on AI for cyber defense. Before grad school I was a software engineer on an EdTech platform serving 70K+ users, chasing down latency and shipping features thousands of learners used every day.
 
-Outside of work I take systems apart to understand them. Lately that meant writing a vector search engine from scratch in C++, then building an LLM gateway and a movie recommender on top of it. I ship something small almost every day; building is how I learn.
+Outside of work I take systems apart to understand them. Lately that meant writing a vector search engine from scratch in C++, then building an LLM gateway and a movie recommender on top of it. More recently: a parallel RTL compiler and a distributed build engine, both in C++. I ship something small almost every day; building is how I learn.
 
 Open to full-time Software, ML, and AI Engineering roles across the US.
 
@@ -40,10 +40,12 @@ Malware binaries rendered as images, then classified by three complementary feat
 
 | Project | The short version | Code |
 | :-- | :-- | :-- |
-| [Proxima](https://sushantlokhande.me/projects/proxima/) | A C++ vector search engine that answers queries 1.8Ã— faster than hnswlib and 2.5Ã— faster than FAISS at 0.999 recall | [repo](https://github.com/sushantlokhande14/proxima) |
+| [Proxima](https://sushantlokhande.me/projects/proxima/) | A C++ vector search engine that answers queries 1.8× faster than hnswlib and 2.5× faster than FAISS at 0.999 recall | [repo](https://github.com/sushantlokhande14/proxima) |
 | [Relay](https://sushantlokhande.me/projects/relay/) | An LLM gateway that remembers: 78% of requests served from a semantic cache, median latency 759 ms to 44 ms | [repo](https://github.com/sushantlokhande14/Relay) |
 | [Reel Rank](https://sushantlokhande.me/projects/reelrank/) | A two-stage hybrid movie recommender with retrieval running on Proxima, answering free-text requests like "a slow-burn sci-fi like Arrival but funnier" | [repo](https://github.com/sushantlokhande14/reelrank) |
 | [Autograde AI](https://sushantlokhande.me/projects/autograde-ai/) | A local-first multi-agent grading platform: six grader agents under Temporal and Kafka, confidence-gated human review | [repo](https://github.com/sushantlokhande14/autograde-ai) |
+| [LogicForge](https://sushantlokhande.me/projects/logicforge/) | A parallel RTL compiler in C++: SystemVerilog in, an optimized and equivalence-checked gate netlist out, with the optimization stage 3.0 to 3.5× faster on 16 threads | [repo](https://github.com/sushantlokhande14/logicforge) |
+| [DistCompile](https://sushantlokhande.me/projects/distcompile/) | A distributed C/C++ build engine on gRPC and PostgreSQL with content-addressed caching: 84% fewer compiler runs than make over a scripted edit workload | [repo](https://github.com/sushantlokhande14/distcompile) |
 | [Malware Classification](https://sushantlokhande.me/projects/malware-classification/) | My thesis: malware binaries rendered as images, a three-track ensemble that agrees 94% of the time across 17 families | [repo](https://github.com/sushantlokhande14/Soft_Voting_Ensembled_Malware_Images_Classification) |
 
 ## Open source Contributions
